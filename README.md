@@ -1,4 +1,4 @@
-# e-OFFICE Analysis
+# Data Analysis on e-OFFICE platform 
 # Introduction
 
 In this project, I performed data analysis on an e-office platform to gain insights into how it is being used and identify areas for improvement. The e-office platform is a web-based application that allows organizations to manage documents, workflows, and user access. The analysis was conducted using Python and several data analysis libraries, including Pandas and NumPy.
