@@ -9,7 +9,7 @@ The first step in the analysis was to collect the necessary data from the e-offi
 
 # Data Analysis
 
-After the data was cleaned, I conducted a series of analyses to gain insights into how the e-office platform was being used. This involved analyzing data related to document creation, workflow management, and user behavior. For example, I analyzed the types of documents being created, the average time it takes for a document to move through a workflow, and how users are interacting with the platform.
+After the data was cleaned, I conducted a series of analyses to gain insights into how the e-office platform was being used. This involved analyzing data related to document creation, workflow management, and user engangement. For example, I analyzed the rate of documents being created, the rate of users joining the service each year, and how users are interacting with the platform.
 
 # Results and Recommendations
 
